@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=*-12
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=*-32
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=C32-1
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=C33-1
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=C34-1
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=C34-2
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=P28-4
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=P30-1
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=R31-2
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=R32-2
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=R33-2
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=R34-2
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=R35-1
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=R35-2
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=R36-1
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=R36-2
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=S6-1
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=S7-1
+Removed Pin From Net: NetName=DWM_BLE_WK Pin=S7-2
+Change Net Name : Old Net Name=DWM_BLE_WK New Net Name=GND
+Added Pin To Net: NetName=DWM_BLE_WK Pin=*-32
+Added Pin To Net: NetName=DWM_BLE_WK Pin=C34-1
+Added Pin To Net: NetName=DWM_BLE_WK Pin=R36-1
+Added Pin To Net: NetName=DWM_BLE_WK Pin=S7-1
+Added Net: Name=DWM_BLE_WK
+Added Pin To Net: NetName=DWM_nRST Pin=*-12
+Added Pin To Net: NetName=DWM_nRST Pin=C32-1
+Added Pin To Net: NetName=DWM_nRST Pin=C33-1
+Added Pin To Net: NetName=DWM_nRST Pin=P28-4
+Added Pin To Net: NetName=DWM_nRST Pin=P30-1
+Added Pin To Net: NetName=DWM_nRST Pin=R31-2
+Added Pin To Net: NetName=DWM_nRST Pin=R32-2
+Added Pin To Net: NetName=DWM_nRST Pin=R33-2
+Added Pin To Net: NetName=DWM_nRST Pin=R34-2
+Added Pin To Net: NetName=DWM_nRST Pin=R35-1
+Added Pin To Net: NetName=DWM_nRST Pin=R35-2
+Added Pin To Net: NetName=DWM_nRST Pin=R36-2
+Added Pin To Net: NetName=DWM_nRST Pin=S6-1
+Added Net: Name=DWM_nRST
+Added Pin To Net: NetName=NetC34_2 Pin=C34-2
+Added Pin To Net: NetName=NetC34_2 Pin=S7-2
+Added Net: Name=NetC34_2
+Added Room: Name=BLUETOOTH
+Added Room: Name=DACEWAVE
+Added Room: Name=MCU

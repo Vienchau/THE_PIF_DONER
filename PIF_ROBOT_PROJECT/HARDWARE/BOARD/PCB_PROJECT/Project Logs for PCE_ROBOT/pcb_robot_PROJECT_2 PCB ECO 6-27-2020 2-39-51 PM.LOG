@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=BUZZER Pin=Q?-1
+Removed Pin From Net: NetName=BUZZER Pin=R3-1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R3-1
+Added Net: Name=NetQ?_1
+Added Room: Name=BLUETOOTH
+Added Room: Name=DACEWAVE
+Added Room: Name=MCU
+Added Room: Name=MOTOR_CONTROL

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=DWM_nRST Pin=C33-1
+Removed Pin From Net: NetName=DWM_nRST Pin=R35-1
+Removed Pin From Net: NetName=DWM_nRST Pin=S6-1
+Change Net Name : Old Net Name=DWM_nRST New Net Name=3V3_DWM_M
+Added Pin To Net: NetName=DWM_nRST Pin=C33-1
+Added Pin To Net: NetName=DWM_nRST Pin=R35-1
+Added Pin To Net: NetName=DWM_nRST Pin=S6-1
+Added Net: Name=DWM_nRST
+Added Room: Name=BLUETOOTH
+Added Room: Name=DACEWAVE
+Added Room: Name=MCU

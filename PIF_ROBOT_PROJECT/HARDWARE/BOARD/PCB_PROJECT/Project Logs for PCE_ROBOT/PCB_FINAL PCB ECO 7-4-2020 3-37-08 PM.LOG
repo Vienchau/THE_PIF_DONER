@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=12_STEP Pin=C8-1
+Removed Pin From Net: NetName=12_STEP Pin=M2-9
+Added Pin To Net: NetName=12V_STEP Pin=C8-1
+Added Pin To Net: NetName=12V_STEP Pin=M2-9
+Added Member To Class: ClassName=MCU Member=Component D1 RED
+Added Member To Class: ClassName=BLUETOOTH Member=Component D2 GREEN
+Added Member To Class: ClassName=BLUETOOTH Member=Component D3 YELLOW
+Added Member To Class: ClassName=BLUETOOTH Member=Component D4 RED
+Added Member To Class: ClassName=WIFI Member=Component D5 RED
+Added Member To Class: ClassName=DACEWAVE Member=Component D7 RED
+Added Member To Class: ClassName=DACEWAVE Member=Component D8 GREEN
+Added Member To Class: ClassName=DACEWAVE Member=Component D9 YELLOW
+Added Member To Class: ClassName=DACEWAVE Member=Component D10 GREEN
+Added Member To Class: ClassName=DACEWAVE Member=Component D11 RED
+Added Member To Class: ClassName=DACEWAVE Member=Component D12 RED
+Added Room: Name=BLUETOOTH
+Added Room: Name=DACEWAVE
+Added Room: Name=MCU
+Added Room: Name=MOTOR_CONTROL
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=RF
+Added Room: Name=SENSOR
+Added Room: Name=WIFI

@@ -1,0 +1,9 @@
+Added Member To Class: ClassName=MCU Member=Component  STM32F103C8T6
+Added Room: Name=BLUETOOTH
+Added Room: Name=DACEWAVE
+Added Room: Name=MCU
+Added Room: Name=MOTOR_CONTROL
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=RF
+Added Room: Name=SENSOR
+Added Room: Name=WIFI

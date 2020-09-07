@@ -1,0 +1,51 @@
+Added Component: Designator=U5(CP2102)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CP2102-GM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Silicon_Labs_2015-03-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DWM_BLE_WK Pin=U5-3
+Added Pin To Net: NetName=USB_D_P Pin=U5-4
+Added Pin To Net: NetName=USB_D_N Pin=U5-5
+Added Pin To Net: NetName=3V3_WIFI Pin=U5-6
+Added Pin To Net: NetName=3V3_WIFI Pin=U5-7
+Added Pin To Net: NetName=5V_WIFI Pin=U5-8
+Added Pin To Net: NetName=NetD5_1 Pin=U5-12
+Added Pin To Net: NetName=CP2102_RTS Pin=U5-24
+Added Pin To Net: NetName=ESP_TX Pin=U5-25
+Added Pin To Net: NetName=NetR26_1 Pin=U5-26
+Added Pin To Net: NetName=CP2102_DTR Pin=U5-28
+Added Pin To Net: NetName=DWM_BLE_WK Pin=U5-29
+Added Member To Class: ClassName=MCU Member=Component B1 Buzzer
+Added Member To Class: ClassName=MCU Member=Component C1 Cap-1nF-50V-0805
+Added Member To Class: ClassName=MCU Member=Component C2 Cap-1nF-50V-0805
+Added Member To Class: ClassName=MCU Member=Component C3 Cap-100pF-50V-0805
+Added Member To Class: ClassName=MCU Member=Component C4 Cap-100pF-50V-0805
+Added Member To Class: ClassName=MCU Member=Component C5 Cap-100pF-50V-0805
+Added Member To Class: ClassName=MCU Member=Component D1 LED-RED-TH-3mm
+Added Member To Class: ClassName=MCU Member=Component J1 691101710003
+Added Member To Class: ClassName=MCU Member=Component P1 Header 3H
+Added Member To Class: ClassName=MCU Member=Component P2 Header 3H
+Added Member To Class: ClassName=MCU Member=Component P3 Header 3
+Added Member To Class: ClassName=MCU Member=Component Q? MMBT3904-1AM
+Added Member To Class: ClassName=MCU Member=Component R1 Res-0-0805
+Added Member To Class: ClassName=MCU Member=Component R2 Res-0-0805
+Added Member To Class: ClassName=MCU Member=Component R3 Res-0-0805
+Added Member To Class: ClassName=MCU Member=Component R4 Res-0-0805
+Added Member To Class: ClassName=MCU Member=Component R5 Res-0-0805
+Added Member To Class: ClassName=MCU Member=Component R6 Res-0-0805
+Added Member To Class: ClassName=MCU Member=Component S1 434113043826
+Added Member To Class: ClassName=MCU Member=Component S2 434113043826
+Added Member To Class: ClassName=MCU Member=Component  STM32F103C8T6
+Added Member To Class: ClassName=WIFI Member=Component U5 CP2102-GM
+Added Room: Name=BLUETOOTH
+Added Room: Name=DACEWAVE
+Added Room: Name=MCU
+Added Room: Name=MOTOR_CONTROL
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=RF
+Added Room: Name=SENSOR
+Added Room: Name=WIFI

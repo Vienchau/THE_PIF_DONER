@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=5V_WIFI Pin=IC2-3
+Added Pin To Net: NetName=12V_STEP Pin=C7-1
+Added Pin To Net: NetName=5V Pin=IC2-3
+Added Pin To Net: NetName=12V_STEP Pin=M1-9
+Added Member To Class: ClassName=MCU Member=Component B1 Buzzer
+Added Member To Class: ClassName=MCU Member=Component C1 Cap-1nF-50V-0805
+Added Member To Class: ClassName=MCU Member=Component C2 Cap-1nF-50V-0805
+Added Member To Class: ClassName=MCU Member=Component C3 Cap-100pF-50V-0805
+Added Member To Class: ClassName=MCU Member=Component C4 Cap-100pF-50V-0805
+Added Member To Class: ClassName=MCU Member=Component C5 Cap-100pF-50V-0805
+Added Member To Class: ClassName=MCU Member=Component D1 RED
+Added Member To Class: ClassName=MCU Member=Component J1 691101710003
+Added Member To Class: ClassName=MCU Member=Component P1 Header 3
+Added Member To Class: ClassName=MCU Member=Component P2 Header 3
+Added Member To Class: ClassName=MCU Member=Component P3 Header 3
+Added Member To Class: ClassName=MCU Member=Component Q1 MMBT3904-1AM
+Added Member To Class: ClassName=MCU Member=Component R1 Res-0-0805
+Added Member To Class: ClassName=MCU Member=Component R2 Res-0-0805
+Added Member To Class: ClassName=MCU Member=Component R3 Res-0-0805
+Added Member To Class: ClassName=MCU Member=Component R4 Res-0-0805
+Added Member To Class: ClassName=MCU Member=Component R5 Res-0-0805
+Added Member To Class: ClassName=MCU Member=Component R6 Res-0-0805
+Added Member To Class: ClassName=MCU Member=Component S1 434113043826
+Added Member To Class: ClassName=MCU Member=Component S2 434113043826
+Added Member To Class: ClassName=MCU Member=Component  STM32F103C8T6
+Added Room: Name=BLUETOOTH
+Added Room: Name=DACEWAVE
+Added Room: Name=MCU
+Added Room: Name=MOTOR_CONTROL
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=RF
+Added Room: Name=SENSOR
+Added Room: Name=WIFI

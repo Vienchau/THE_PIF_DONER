@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=R20-1
+Removed Pin From Net: NetName=GND Pin=R22-1
+Removed Pin From Net: NetName=GND Pin=R24-1
+Removed Pin From Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=3V3_WIFI Pin=C27-1
+Added Pin To Net: NetName=3V3_WIFI Pin=R20-1
+Added Pin To Net: NetName=3V3_WIFI Pin=R22-1
+Added Pin To Net: NetName=3V3_WIFI Pin=R24-1
+Added Pin To Net: NetName=3V3_WIFI Pin=R25-1
+Added Room: Name=BLUETOOTH
+Added Room: Name=DACEWAVE
+Added Room: Name=MCU
+Added Room: Name=MOTOR_CONTROL
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=RF
+Added Room: Name=SENSOR
+Added Room: Name=WIFI
