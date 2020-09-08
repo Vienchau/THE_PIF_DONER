@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: cainaylacaicuoihualuona.PcbDoc   9/7/2020  10:12:48 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : cainaylacaicuoihualuona.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             195       PTH        0.00inch (0.00mm)
+T2      24mil (0.61mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T4      33mil (0.838mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T5      36mil (0.914mm)                                           Round             100       PTH        0.00inch (0.00mm)
+T6      42mil (1.067mm)                                           Round             10        PTH        0.00inch (0.00mm)
+T7      43mil (1.1mm)                                             Round             32        PTH        0.00inch (0.00mm)
+T8      51mil (1.3mm)                                             Round             3         PTH        0.00inch (0.00mm)
+T9      55mil (1.4mm)                                             Round             20        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              378
+
+Total Processing Time (hh:mm:ss) : 00:00:01

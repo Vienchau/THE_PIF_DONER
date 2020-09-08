@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=P1 Old Footprint=JP3H New Footprint=JP3
+Change Component Footprint: Designator=P2 Old Footprint=JP3H New Footprint=JP3
+Change Component Comment : Designator=P1 Old Comment=Header 3H New Comment=Header 3
+Change Component Comment : Designator=P2 Old Comment=Header 3H New Comment=Header 3
+Added Room: Name=BLUETOOTH
+Added Room: Name=DACEWAVE
+Added Room: Name=MCU
+Added Room: Name=MOTOR_CONTROL
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=RF
+Added Room: Name=SENSOR
+Added Room: Name=WIFI

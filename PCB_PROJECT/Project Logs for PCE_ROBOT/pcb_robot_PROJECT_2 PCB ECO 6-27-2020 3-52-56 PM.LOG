@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1_1
+Added Room: Name=BLUETOOTH
+Added Room: Name=DACEWAVE
+Added Room: Name=MCU
+Added Room: Name=MOTOR_CONTROL
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=RF
+Added Room: Name=SENSOR

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCE_ROBOT.PrjPCB]
+   Generated File[cainaylacaicuoihualuona.TXT]
+   Generated File[cainaylacaicuoihualuona.LDP]
+   Generated File[cainaylacaicuoihualuona.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:12:49 PM On 9/7/2020

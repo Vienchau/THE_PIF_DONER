@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=3V3_MC Pin=P20-1
+Added Pin To Net: NetName=3V3_MC Pin=P21-1
+Change Net Name : Old Net Name=3V3_MC New Net Name=3V3_MCU
+Added Member To Class: ClassName=MCU Member=Component P2 Header 3
+Added Member To Class: ClassName=MCU Member=Component  STM32F103C8T6
+Added Room: Name=BLUETOOTH
+Added Room: Name=DACEWAVE
+Added Room: Name=MCU
+Added Room: Name=MOTOR_CONTROL
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=RF
+Added Room: Name=SENSOR
+Added Room: Name=WIFI

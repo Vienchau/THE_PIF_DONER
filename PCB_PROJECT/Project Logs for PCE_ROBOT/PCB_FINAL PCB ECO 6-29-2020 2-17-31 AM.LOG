@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=GND Pin=S7-2
+Added Room: Name=BLUETOOTH
+Added Room: Name=DACEWAVE
+Added Room: Name=MCU
